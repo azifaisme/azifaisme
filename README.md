@@ -1,9 +1,20 @@
 ### Hi everyone!
-My name is Azifa Malikata Umama. You can call me Azifa. But, all my friends are calls me Ajip.
-<!--
-**azifaisme/azifaisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Biodata
 
-Here are some ideas to get you started:
+## Personal Information
+- **Name:** Azifa Malikata Umama
+- **Date of Birth:** 03 of December 2007
+- **Address:** Bumi Kepongpongan Indah Blok F 1 No. 5
+- **Email:** malikataumama@gmail.com
+- **Phone:** 082130025646
+
+## Education
+- **Institution:** SDIT Akmala Sabila and PPM Al-Muqoddas
+- **Year of Graduation:** 2020 and 2023
+
+## References
+Available upon request.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
