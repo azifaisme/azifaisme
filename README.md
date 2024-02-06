@@ -1,5 +1,5 @@
-### hi, my name is azifa👋
-
+### Hi everyone!
+My name is Azifa Malikata Umama. You can call me Azifa. But, all my friends are calls me Ajip.
 <!--
 **azifaisme/azifaisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
